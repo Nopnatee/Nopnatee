@@ -5,3 +5,5 @@
 - 🤔 I’m looking for help with money
 - ⚡ Fun fact: Need some budget for a new PC
 - 📫 How to reach me: nopnatee.triv@gmail.com
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaoqueri)](https://github.com/kaoqueri/github-readme-stats)
