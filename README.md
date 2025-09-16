@@ -6,4 +6,4 @@
 - ⚡ Fun fact: Need some budget for a new PC
 - 📫 How to reach me: nopnatee.triv@gmail.com
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nopnatee&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nopnatee&layout=compact&hide=jupyter%20notebook&v=3)
