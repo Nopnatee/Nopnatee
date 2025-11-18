@@ -6,3 +6,4 @@
 - 📫 How to reach me: nopnatee.triv@gmail.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nopnatee&layout=compact&hide=jupyter%20notebook&v=3)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nopnatee&show_icons=true&locale=en" alt="nantawanchom" /></p>
