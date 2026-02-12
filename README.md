@@ -1,6 +1,5 @@
 ## Hi there, I'm Nopnatee (Tee)👋
 
-- 🔭 I’m currently working on LLM deployment and 2D image segmentation as back-end dev
-- 🌱 I’m currently learning PyTorch and GitHub
-- 🤔 I’m looking for help with money
+- 🔭 I’m currently working on an LLM chatbot and 2D image segmentation as a back-end developer
+- 🌱 I’m currently learning MachineLearning and Psychology
 - 📫 How to reach me: nopnatee.triv@gmail.com
